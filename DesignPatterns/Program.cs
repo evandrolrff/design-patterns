@@ -28,6 +28,7 @@ namespace DesignPatterns {
                         case "Object Adapter":
                             break;
                         case "Bridge":
+                            new Bridge.Client();
                             break;
                         case "Composite":
                             break;

@@ -1,3 +1,13 @@
 .vscode
 bin/
 obj/
+/DesignPatterns/.vs/DesignPatterns/v16/Server/sqlite3/storage.ide-wal
+/DesignPatterns/.vs/DesignPatterns/v16/Server/sqlite3/storage.ide-shm
+/DesignPatterns/.vs/DesignPatterns/v16/Server/sqlite3/storage.ide
+/DesignPatterns/.vs/DesignPatterns/v16/Server/sqlite3/db.lock
+/DesignPatterns/.vs/DesignPatterns/v16/Server/sqlite3
+/DesignPatterns/.vs/DesignPatterns/v16/.suo
+/DesignPatterns/.vs/DesignPatterns/v16
+/DesignPatterns/.vs/DesignPatterns/DesignTimeBuild/.dtbcache
+/DesignPatterns/.vs/DesignPatterns/DesignTimeBuild
+/DesignPatterns/.vs/DesignPatterns

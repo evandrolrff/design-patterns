@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="FactoryMethod\" />
     <Folder Include="Builder\" />
     <Folder Include="ClassAdapter\" />
     <Folder Include="Bridge\" />

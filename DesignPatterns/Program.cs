@@ -12,6 +12,7 @@ namespace DesignPatterns {
                 if (item.ToLower().Equals(option) || item.ToLower().Contains(option)) {
                     switch (item) {
                         case "Factory Method":
+                            new FactoryMethod.Client();
                             break;
                         case "Abstract Factory":
                             new AbstractFactory.Client();

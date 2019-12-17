@@ -21,6 +21,7 @@ namespace DesignPatterns {
                             new Builder.Client();
                             break;
                         case "Prototype":
+                            new Prototype.Client();
                             break;
                         case "Singleton":
                             break;

@@ -25,7 +25,6 @@
     <Folder Include="Proxy\" />
     <Folder Include="ObjectAdapter\" />
     <Folder Include="Singleton\" />
-    <Folder Include="Prototype\" />
   </ItemGroup>
 
 </Project>

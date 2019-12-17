@@ -18,6 +18,7 @@ namespace DesignPatterns {
                             new AbstractFactory.Client();
                             break;
                         case "Builder":
+                            new Builder.Client();
                             break;
                         case "Prototype":
                             break;

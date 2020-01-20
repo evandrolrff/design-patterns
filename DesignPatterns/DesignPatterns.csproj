@@ -6,9 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ClassAdapter\" />
-    <Folder Include="Composite\" />
-    <Folder Include="Decorator\" />
     <Folder Include="Facade\" />
     <Folder Include="Flyweight\" />
     <Folder Include="Interpreter\" />
@@ -23,8 +20,6 @@
     <Folder Include="Observer\" />
     <Folder Include="TemplateMethod\" />
     <Folder Include="Proxy\" />
-    <Folder Include="ObjectAdapter\" />
-    <Folder Include="Singleton\" />
   </ItemGroup>
 
 </Project>

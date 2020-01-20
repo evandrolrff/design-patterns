@@ -3,7 +3,7 @@
 namespace DesignPatterns {
     class Program {
         static string[] menu_options = new string[] {"Factory Method", "Abstract Factory", "Builder", "Prototype", "Singleton",
-            "Class Adapter", "Object Adapter", "Bridge", "Composite", "Decorator", "Facade", "Flyweight", "Proxy", "Interpreter",
+            "Adapter", "Bridge", "Composite", "Decorator", "Facade", "Flyweight", "Proxy", "Interpreter",
             "Template Method", "Chain of Responsability", "Command", "Iterator", "Mediator", "Memento", "Observer", "State",
             "Strategy", "Visitor"};
 
@@ -24,17 +24,19 @@ namespace DesignPatterns {
                             new Prototype.Client();
                             break;
                         case "Singleton":
+                            new Singleton.Client();
                             break;
-                        case "Class Adapter":
-                            break;
-                        case "Object Adapter":
+                        case "Adapter":
+                            new Adapter.Client();
                             break;
                         case "Bridge":
                             new Bridge.Client();
                             break;
                         case "Composite":
+                            new Composite.Client();
                             break;
                         case "Decorator":
+                            new Decorator.Client();
                             break;
                         case "Facade":
                             break;

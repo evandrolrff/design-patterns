@@ -45,14 +45,17 @@ namespace DesignPatterns {
                             new Flyweight.Client();
                             break;
                         case "Proxy":
+                            new Proxy.Client();
                             break;
                         case "Interpreter":
                             break;
                         case "Template Method":
                             break;
                         case "Chain of Responsability":
+                            new ChainResponsability.Client();
                             break;
                         case "Command":
+                            new Command.Client();
                             break;
                         case "Iterator":
                             break;

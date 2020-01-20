@@ -42,6 +42,7 @@ namespace DesignPatterns {
                             new Facade.Client();
                             break;
                         case "Flyweight":
+                            new Flyweight.Client();
                             break;
                         case "Proxy":
                             break;

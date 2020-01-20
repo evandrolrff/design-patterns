@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Flyweight\" />
     <Folder Include="Interpreter\" />
     <Folder Include="ChainResponsability\" />
     <Folder Include="Command\" />

@@ -39,6 +39,7 @@ namespace DesignPatterns {
                             new Decorator.Client();
                             break;
                         case "Facade":
+                            new Facade.Client();
                             break;
                         case "Flyweight":
                             break;

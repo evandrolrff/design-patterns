@@ -58,6 +58,7 @@ namespace DesignPatterns {
                             new Command.Client();
                             break;
                         case "Iterator":
+                            new Iterator.Client();
                             break;
                         case "Mediator":
                             break;
